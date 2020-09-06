@@ -94,6 +94,7 @@
                 </div>
                 <div class="our-link">
                     <ul>
+                        <li><a href="<c:url value="/admin/" />">Admin</a></li>
                         <li><a href="#">My Account</a></li>
                         <li><a href="#">Our location</a></li>
                         <li><a href="<c:url value="/contact"/>">Contact Us</a></li>
