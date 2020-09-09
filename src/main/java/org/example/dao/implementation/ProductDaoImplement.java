@@ -1,4 +1,4 @@
-package org.example.dao.implement;
+package org.example.dao.implementation;
 
 import org.example.dao.ProductDao;
 import org.example.model.Product;
